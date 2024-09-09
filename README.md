@@ -29,6 +29,7 @@ Desarrollador de software con experiencia en el desarrollo de aplicaciones móvi
 - **[API Plantas 🪴](https://github.com/MatiasSanchez48/ApiPlantas):** API básica vinculada con la app en Dart y Flutter. (Recomiendo leer el código).
 - **[Proyecto Rick y Morty 👽](https://github.com/MatiasSanchez48/Rick-Morty):** Aplicación básica con React y JavaScript.
 - **[Proyecto React y Vite 🌎](https://github.com/MatiasSanchez48/Proyecto-React-vite-):** Aplicación básica con React, JavaScript y Vite.
+- **[Animaciones 🧩](https://github.com/MatiasSanchez48/AnimationsFlutter):** Aplicación básica de animaciones, Dart y Flutter.
 
 ---
 
