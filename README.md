@@ -1,36 +1,34 @@
-# ¡Hola! Soy Matias Sanchez👋
+# Hello! I'm Matias Sanchez 👋
 
-Desarrollador de software con experiencia en el desarrollo de aplicaciones móviles y web. Utilizo **Flutter** y **Dart** para crear aplicaciones modernas y eficientes. Además, tengo conocimientos en el backend con **.NET**, **MongoDB** y **SQL**. También he trabajado en proyectos básicos con **React** y tengo conocimientos fundamentales en **HTML**, **CSS** y **Java**.
+Software developer with experience in developing mobile and web applications. I use Flutter and Dart to create modern and efficient applications. 
+Additionally, I have backend knowledge with .NET, MongoDB, and SQL. 
+I’ve also worked on basic projects with React and have foundational knowledge in HTML, CSS, and Java.
 
-## 🌱 Actualmente Estoy
+##  🌱 I’m Currently
 
-- Trabanjando en Nidus.
-- Estudiando una tecnicatura universitaria en programación.
+Studying a university technical degree in programming.
 
-## 🚀 Habilidades
+## 🚀 Skills
+Mobile Development: Flutter, Dart
+Backend: .NET, MongoDB, SQL
+Web Development: React, HTML, CSS, Java
+APIs and Data Consumption: API design and consumption
 
-- **Desarrollo Móvil:** Flutter, Dart
-- **Backend:** .NET, MongoDB, SQL
-- **Desarrollo Web:** React, HTML, CSS, Java
-- **APIs y Consumo de Datos:** Diseño y consumo de APIs
-
-## 📫 Contáctame
-
+##  📫 Contact Me
 - **LinkedIn:** [Matias Sanchez](https://www.linkedin.com/in/matias-sanchez-8a5219252/)
-- **Correo Electrónico:** [sanchezmati48@gmail.com](mailto:sanchezmati48@gmail.com)
+- **Email:** [sanchezmati48@gmail.com](mailto:sanchezmati48@gmail.com)
 
-## 📊 Estadísticas de GitHub
-
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiassanchez48&show_icons=true&hide_title=true)
 
-## 🌐 Mis Proyectos
+🌐 My Projects
 
-- **[APP Plantas 🪴](https://github.com/MatiasSanchez48/app_plantas):** Aplicación básica vinculada con la API en C# y .NET. (Recomiendo leer el código).
-- **[API Plantas 🪴](https://github.com/MatiasSanchez48/ApiPlantas):** API básica vinculada con la app en Dart y Flutter. (Recomiendo leer el código).
-- **[Proyecto Rick y Morty 👽](https://github.com/MatiasSanchez48/Rick-Morty):** Aplicación básica con React y JavaScript.
-- **[Proyecto React y Vite 🌎](https://github.com/MatiasSanchez48/Proyecto-React-vite-):** Aplicación básica con React, JavaScript y Vite.
-- **[Animaciones 🧩](https://github.com/MatiasSanchez48/AnimationsFlutter):** Aplicación básica de animaciones, Dart y Flutter.
+- **[Plant App 🪴](https://github.com/MatiasSanchez48/app_plantas):** : Basic application linked to an API in C# and .NET. (I recommend reading the code).
+- **[Plant API 🪴](https://github.com/MatiasSanchez48/ApiPlantas):** Basic API linked to the app in Dart and Flutter. (I recommend reading the code)
+- **[Rick and Morty Project 👽](https://github.com/MatiasSanchez48/Rick-Morty):** Basic application using React and JavaScript.
+- **[React and Vite Project 🌎](https://github.com/MatiasSanchez48/Proyecto-React-vite-):** Basic application with React, JavaScript, and Vite.
+- **[Animations 🧩](https://github.com/MatiasSanchez48/AnimationsFlutter):** Basic animation app using Dart and Flutter.
 
----
+----
 
-¡Gracias por visitar mi perfil!
+Thank you for visiting my profile!
