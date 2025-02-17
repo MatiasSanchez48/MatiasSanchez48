@@ -1,7 +1,4 @@
 # Hello! I'm Matias Sanchez 👋
-
-# Hello! I'm Matias Sanchez 👋
-
 I am a passionate software developer with a focus on building modern and efficient applications. I enjoy solving real-world problems through technology and continuously improving my skills.
 
 With experience in mobile development (Flutter/Dart), backend technologies (.NET, MongoDB, SQL), and web development (React, HTML, CSS, JavaScript), I am always excited to learn and grow as a developer.
@@ -52,10 +49,10 @@ Feel free to reach out for collaboration or to discuss new ideas!
 - **[Plant API 🪴](https://github.com/MatiasSanchez48/ApiPlantas):** API in Dart/Flutter connected to a plant app.
 - **[Blog API 📝](https://github.com/MatiasSanchez48/ApiBlog):** Basic API Rest using MongoDB,Express and JavaScript.
 
-![GitHub Commits](https://img.shields.io/github/commits-since/matiassanchez48/your-repository-name/last-commit)
+![GitHub Commits](https://img.shields.io/github/commits-since/matiassanchez48)
 
 ## 📊 My Programming Hours
-![WakaTime Stats](https://wakatime.com/badge/user/MatiasSanchez48.svg)
+Check out my programming stats on [WakaTime](https://wakatime.com/@MatiasSanchez48).
 
 ----
 
