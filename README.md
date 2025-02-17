@@ -1,11 +1,12 @@
 # Hello! I'm Matias Sanchez 👋
 
-Software developer with experience in developing mobile and web applications. I use Flutter and Dart to create modern and efficient applications. 
-Additionally, I have backend knowledge with .NET, MongoDB, and SQL. 
-I’ve also worked on basic projects with React and have foundational knowledge in HTML, CSS, and Java.
+# Hello! I'm Matias Sanchez 👋
 
-##  🌱 I’m Currently
+I am a passionate software developer with a focus on building modern and efficient applications. I enjoy solving real-world problems through technology and continuously improving my skills.
 
+With experience in mobile development (Flutter/Dart), backend technologies (.NET, MongoDB, SQL), and web development (React, HTML, CSS, JavaScript), I am always excited to learn and grow as a developer.
+
+## 🌱 I’m Currently
 Studying a university technical degree in programming.
 
 ## 🚀 Skills
@@ -14,7 +15,9 @@ Backend: .NET, MongoDB, SQL
 Web Development: React, HTML, CSS, Java
 APIs and Data Consumption: API design and consumption
 
-##  📫 Contact Me
+## 📫 Contact Me
+Feel free to reach out for collaboration or to discuss new ideas!
+
 - **LinkedIn:** [Matias Sanchez](https://www.linkedin.com/in/matias-sanchez-8a5219252/)
 - **Email:** [sanchezmati48@gmail.com](mailto:sanchezmati48@gmail.com)
 
@@ -32,15 +35,24 @@ APIs and Data Consumption: API design and consumption
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-🌐 My Projects
+### 🌐 My Projects
 
-- **[Plant App 🪴](https://github.com/MatiasSanchez48/app_plantas):** : Basic application linked to an API in C# and .NET. (I recommend reading the code).
-- **[Plant API 🪴](https://github.com/MatiasSanchez48/ApiPlantas):** Basic API linked to the app in Dart and Flutter. (I recommend reading the code)
-- **[Rick and Morty Project 👽](https://github.com/MatiasSanchez48/Rick-Morty):** Basic application using React and JavaScript.
+#### 🖥️ Web Applications
+- **[Rick and Morty Project 👽](https://github.com/MatiasSanchez48/Rick-Morty):** React app consuming an API.
+- **[Blog App 📝](https://github.com/MatiasSanchez48/proyectoBlog):** A basic blog app built with React, HTML, CSS, and JavaScript.
 - **[React and Vite Project 🌎](https://github.com/MatiasSanchez48/Proyecto-React-vite-):** Basic application with React, JavaScript, and Vite.
+- **[Login & Register Animations 🎨](https://github.com/MatiasSanchez48/Login-Register-Animated):** Animated login and register screens in Flutter (no backend functionality).
+
+#### 📱 Mobile Apps
+- **[Task App ✅](https://github.com/MatiasSanchez48/TaskApp-Firebase):** Full Flutter app with login, Google authentication, task management, and theme/language customization.
+- **[Plant API 🪴](https://github.com/MatiasSanchez48/ApiPlantas):** Basic API linked to the app in Dart and Flutter.
 - **[Animations 🧩](https://github.com/MatiasSanchez48/AnimationsFlutter):** Basic animation app using Dart and Flutter.
-- **[Blog App 📝](https://github.com/MatiasSanchez48/proyectoBlog):** Basic application using React,CSS,HTML and JavaScript.
+
+#### ⚙️ Backend Projects
+- **[Plant API 🪴](https://github.com/MatiasSanchez48/ApiPlantas):** API in Dart/Flutter connected to a plant app.
 - **[Blog API 📝](https://github.com/MatiasSanchez48/ApiBlog):** Basic API Rest using MongoDB,Express and JavaScript.
+
+![GitHub Commits](https://img.shields.io/github/commits-since/matiassanchez48/your-repository-name/last-commit)
 
 ----
 
