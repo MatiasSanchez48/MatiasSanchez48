@@ -54,6 +54,9 @@ Feel free to reach out for collaboration or to discuss new ideas!
 
 ![GitHub Commits](https://img.shields.io/github/commits-since/matiassanchez48/your-repository-name/last-commit)
 
+## 📊 My Programming Hours
+![WakaTime Stats](https://wakatime.com/badge/user/MatiasSanchez48.svg)
+
 ----
 
 Thank you for visiting my profile!
