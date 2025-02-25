@@ -1,22 +1,30 @@
-# Hello! I'm Matias Sanchez 👋
-I am a passionate software developer with a focus on building modern and efficient applications. I enjoy solving real-world problems through technology and continuously improving my skills.
+# Hello! I'm Matias Sanchez 👋  
+I am a passionate software developer with a focus on building modern and efficient applications. I enjoy solving real-world problems through technology and continuously improving my skills.  
 
-With experience in mobile development (Flutter/Dart), backend technologies (.NET, MongoDB, SQL), and web development (React, HTML, CSS, JavaScript), I am always excited to learn and grow as a developer.
+With experience in mobile development (Flutter/Dart), backend technologies (.NET, MongoDB, SQL), web development (React, HTML, CSS, JavaScript), and game development (Unity, C#), I am always excited to learn and grow as a developer.  
 
 ## 🌱 I’m Currently
 Studying a university technical degree in programming.
 
 ## 🚀 Skills
-Mobile Development: Flutter, Dart
-Backend: .NET, MongoDB, SQL
-Web Development: React, HTML, CSS, Java
-APIs and Data Consumption: API design and consumption
+### 💻 Software Development  
+- **Mobile Development:** Flutter, Dart  
+- **Backend:** .NET, MongoDB, SQL  
+- **Web Development:** React, HTML, CSS, JavaScript  
+- **APIs and Data Consumption:** API design and consumption  
+
+### 🎮 Game Development  
+- **Game Engines:** Unity (C#)  
+- **Game Mechanics:** 2D/3D movement, physics, shooting mechanics  
+- **Multiplayer:** Basic implementation with Photon/Netcode  
+- **Platforms:** PC
 
 ## 📫 Contact Me
 Feel free to reach out for collaboration or to discuss new ideas!
 
 - **LinkedIn:** [Matias Sanchez](https://www.linkedin.com/in/matias-sanchez-8a5219252/)
 - **Email:** [sanchezmati48@gmail.com](mailto:sanchezmati48@gmail.com)
+- **Itch.io:** [Matias Sanchez Games](https://matiassanchez48.itch.io/)  
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiassanchez48&show_icons=true&hide_title=true)
@@ -48,6 +56,13 @@ Feel free to reach out for collaboration or to discuss new ideas!
 #### ⚙️ Backend Projects
 - **[Plant API 🪴](https://github.com/MatiasSanchez48/ApiPlantas):** API in Dart/Flutter connected to a plant app.
 - **[Blog API 📝](https://github.com/MatiasSanchez48/ApiBlog):** Basic API Rest using MongoDB,Express and JavaScript.
+## 🎮 My Games  
+You can check out my games on **[Itch.io](https://matiassanchez48.itch.io/)**!  
+
+### 🕹️ Game Projects  
+- **[Plataformas 2D](https://matiassanchez48.itch.io/plataformas2d) 🎮** – A basic 2D platformer following a tutorial.  
+- **[FPS Básico](https://matiassanchez48.itch.io/fps-basico) 🔫** – A first-person shooter with simple mechanics.  
+- **[FPS Multijugador](https://matiassanchez48.itch.io/fps-multiplayer) 🎯** – A multiplayer FPS with weapon switching and AI enemies.
 
 ![GitHub Commits](https://img.shields.io/github/commits-since/matiassanchez48)
 
