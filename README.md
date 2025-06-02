@@ -65,7 +65,7 @@ You can check out my games on **[Itch.io](https://matiassanchez48.itch.io/)**!
 [![GitHub Streak](https://streak-stats.demolab.com?user=MatiasSanchez48&border_radius=4)](https://git.io/streak-stats)
 
 ## Top lenguage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasSanchez48)](https://github.com/MatiasSanchez48/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasSanchez48&layout=compact)](https://github.com/MatiasSanchez48/github-readme-stats)
 
 ## 📊 My Programming Hours
 Check out my programming stats on [WakaTime](https://wakatime.com/@MatiasSanchez48).
