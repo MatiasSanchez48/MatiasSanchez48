@@ -26,9 +26,6 @@ Feel free to reach out for collaboration or to discuss new ideas!
 - **Email:** [sanchezmati48@gmail.com](mailto:sanchezmati48@gmail.com)
 - **Itch.io:** [Matias Sanchez Games](https://matiassanchez48.itch.io/)  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiassanchez48&show_icons=true&hide_title=true)
-
 ## 🏅 Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -64,7 +61,8 @@ You can check out my games on **[Itch.io](https://matiassanchez48.itch.io/)**!
 - **[FPS Básico](https://matiassanchez48.itch.io/fps-basico) 🔫** – A first-person shooter with simple mechanics.  
 - **[FPS Multijugador](https://matiassanchez48.itch.io/fps-multiplayer) 🎯** – A multiplayer FPS with weapon switching and AI enemies.
 
-![GitHub Commits](https://img.shields.io/github/commits-since/matiassanchez48)
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=MatiasSanchez48&border_radius=4)](https://git.io/streak-stats)
 
 ## 📊 My Programming Hours
 Check out my programming stats on [WakaTime](https://wakatime.com/@MatiasSanchez48).
